@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım Flutter 52
+Takımm Flutter 52
 
 # Ürün İle İlgili Bilgiler
 
