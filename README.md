@@ -58,7 +58,7 @@ BookBD uygulaması, günümüzde film listelerinde gezinebileceğimiz, izlediği
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprinti 100 ile başlatma kararı verildi. 
 
 
-- **Daily Scrum**: Daily Scrum toplantıları WhatsApp, Discord ve Online yüzyüze görüşme gibi farklı şekillerde yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantıları WhatsApp, Discord ve Online yüzyüze görüşme gibi farklı şekillerde yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://www.canva.com/design/DAFmFZqQf6U/tLXZO-BD4FpqtE2FbBCPRA/edit?utm_content=DAFmFZqQf6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://www.canva.com/design/DAFmFZqQf6U/tLXZO-BD4FpqtE2FbBCPRA/edit?utm_content=DAFmFZqQf6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
