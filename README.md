@@ -17,7 +17,7 @@ Takım Flutter 150
 
 ## Product Backlog URL
 
-[Flutter Team 150 Trello Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 150 Trello Backlog Board](https://trello.com/b/mmCYvCBP)
 
 ## Ürün Açıklaması
 
