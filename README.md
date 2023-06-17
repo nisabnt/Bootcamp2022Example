@@ -65,9 +65,9 @@ BookBD uygulaması, günümüzde film listelerinde gezinebileceğimiz, izlediği
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- ![Sprint](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/sprint1.png))
-  ![Settings](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/ayarlar.png)
-  ![Homepage](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/homepage.png)
+- ![Sprint](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/sprint1.png)<br>
+  ![Settings](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/ayarlar.png)<br>
+  ![Homepage](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/homepage.png)<br>
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
 
