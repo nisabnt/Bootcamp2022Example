@@ -17,7 +17,7 @@ Takım Flutter 150
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 150 Trello Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
 
 ## Ürün Açıklaması
 
@@ -61,7 +61,7 @@ BookBD uygulaması, günümüzde film listelerinde gezinebileceğimiz, izlediği
 - **Daily Scrum**: Daily Scrum toplantıları WhatsApp, Discord ve Online yüzyüze görüşme gibi farklı şekillerde yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](https://www.canva.com/design/DAFmFZqQf6U/tLXZO-BD4FpqtE2FbBCPRA/edit?utm_content=DAFmFZqQf6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
