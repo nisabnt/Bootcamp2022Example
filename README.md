@@ -62,7 +62,7 @@ BookBD uygulaması, günümüzde film listelerinde gezinebileceğimiz, izlediği
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/sprint1.png) <br>
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri:<br>
   ![Settings](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/ayarlar.png)<br>
   ![Homepage](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/homepage.png)<br>
 - **Sprint Review**: 
