@@ -14,10 +14,9 @@ Takım Flutter 150
 ## Ürün İsmi
 
 --BookDB--
-
 ## Product Backlog URL
 
-[Flutter Team 150 Trello Backlog Board](https://trello.com/b/mmCYvCBP)
+[Flutter Team 150 Trello Backlog Board](https://trello.com/invite/b/mmCYvCBP/ATTI5455f08426ee41c4eac3724ec622a5c22211744D/sprint-1)
 
 ## Ürün Açıklaması
 
@@ -82,6 +81,6 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 ## Product Backlog URL
 
-[Flutter Team 150 Trello Backlog Board](https://trello.com/b/mmCYvCBP)
+[Flutter Team 150 Trello Backlog Board](https://trello.com/invite/b/mmCYvCBP/ATTI5455f08426ee41c4eac3724ec622a5c22211744D/sprint-1)
 
 ---
