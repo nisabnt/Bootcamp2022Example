@@ -21,7 +21,7 @@ Takım Flutter 150
 
 ## Ürün Açıklaması
 
-BookBD uygulaması, günümüzde film listelerinde gezinebileceğimiz, izlediğimiz filmleri kaydedebileceğimiz, bunları puanlayabileceğimiz ve birçok özelliğe sahip uygulamaların varlığı fakat bunun kitaplar için olmaması ihtiyacı üzerine tasarlanmıştır. Kitapsever her yaştan insanımızın varlığının farkında olarak daha çok gençlerin asıl kullanıcı kesimimiz olarak hedefe alınma sebebi, birçoğumuzun okuduğu, okuyacağı şeyleri(birçok tür içerir) liste haline getirme ve bununla ilgili genel kanıyı merak etme(puanlama sonucunu) durumumuzla ilgilidir. Burada kullanıcılarımız aradığı kitaba erişme, kitabın özetini okuyabilme, kitabı 'okuduklarım,'okuyacaklarım' listelerine kaydedebilme, beğenme durumlarına göre puan verme ve verilen genel ortalamayı görerek fikir sahibi olmak gibi pek çok fonksiyonu bir arada kullanabilecektir. Uygulamamızın amacı sektördeki film versiyonun kitap için olan halini karşılamak,o an aklımıza gelen kitabı listeye eklemek,okuyucuların kitap hakkındaki beğeni oranını görebilmek gibi faaliyetleri içererek keyifli bir kullanım sunmaktır. Bu uygulamayla aynı zamanda insanların kitap okumaya teşvik edileceği, özendirileceği düşünülmektedir. 
+BookBD uygulaması, günümüzde film listelerinde gezinebileceğimiz, izlediğimiz filmleri kaydedebileceğimiz, bunları puanlayabileceğimiz ve birçok özelliğe sahip uygulamaların varlığı fakat bunun kitaplar için olmaması ihtiyacı üzerine tasarlanmıştır. Kitapsever her yaştan insanımızın varlığının farkında olup daha çok gençlerin asıl kullanıcı kesimimiz olarak hedefe alınma sebebi, birçoğumuzun okuduğu, okuyacağı şeyleri(birçok tür içerir) liste haline getirme ve bununla ilgili genel kanıyı merak etme(puanlama sonucunu) durumumuzla ilgilidir. Burada kullanıcılarımız aradığı kitaba erişme, kitabın özetini okuyabilme, kitabı 'okuduklarım,'okuyacaklarım' listelerine kaydedebilme, beğenme durumlarına göre puan verme ve verilen genel ortalamayı görerek fikir sahibi olmak gibi pek çok fonksiyonu bir arada kullanabilecektir. Uygulamamızın amacı sektördeki film versiyonun kitap için olan halini karşılamak,o an aklımıza gelen kitabı listeye eklemek,okuyucuların kitap hakkındaki beğeni oranını görebilmek gibi faaliyetleri içererek keyifli bir kullanım sunmaktır. Bu uygulamayla aynı zamanda insanların kitap okumaya teşvik edileceği, özendirileceği düşünülmektedir. 
 
 
 - **Uygulama birincil fonksiyonu**: Uygulama kullanıcısı kitapseverlerimiz uygulamaya girip aradığı, merak ettiği kitabı bulup kitabın puanına, kitap içeriğine, türüne bakabiliyor ve kendisi okuduysa puan verebiliyor. 
@@ -46,7 +46,6 @@ BookBD uygulaması, günümüzde film listelerinde gezinebileceğimiz, izlediği
 
 ## Juriye Not
 
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
 
 
 ---
