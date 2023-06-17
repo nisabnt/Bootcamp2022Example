@@ -60,11 +60,9 @@ BookBD uygulaması, günümüzde film listelerinde gezinebileceğimiz, izlediği
 - **Daily Scrum**: Daily Scrum toplantıları WhatsApp, Discord ve Online yüzyüze görüşme gibi farklı şekillerde yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://www.canva.com/design/DAFmFZqQf6U/tLXZO-BD4FpqtE2FbBCPRA/edit?utm_content=DAFmFZqQf6U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
-
+![Backlog 1](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/sprint1.png) <br>
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- ![Sprint](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/sprint1.png)<br>
   ![Settings](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/ayarlar.png)<br>
   ![Homepage](https://github.com/nisabnt/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1DocumentsF-150/homepage.png)<br>
 - **Sprint Review**: 
